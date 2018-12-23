@@ -11,6 +11,7 @@ def loop_iterator(7)
   
   phrase = "Welcome to Flatiron School's Web Development Course!"
   loop do
+    counter = 0
     puts phrase
     break if phrase == 7
     end
